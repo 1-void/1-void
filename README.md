@@ -1,31 +1,26 @@
-<h1><code>void</code></h1>
+# void
 
-<p><code>Software Engineer.</code></p>
+Software Engineer.
 
-<ul>
-  <li><code>Email: root@1-void.com</code></li>
-  <li><code>OpenPGP: see key and fingerprint below</code></li>
-</ul>
+- Email: root@1-void.com
+- OpenPGP: see key and fingerprint below
 
-<h2><code>Contact Policy</code></h2>
+## Contact Policy
 
-<p><code>I only respond to encrypted email.</code></p>
+I only respond to encrypted email.
 
-<ul>
-  <li><code>All incoming email must be OpenPGP-encrypted to my key.</code></li>
-  <li><code>Emails that are not encrypted with OpenPGP will be discarded.</code></li>
-  <li><code>Include your OpenPGP fingerprint in the message body for verification.</code></li>
-</ul>
+- All incoming email must be OpenPGP-encrypted to my key.
+- Emails that are not encrypted with OpenPGP will be discarded.
+- Include your OpenPGP fingerprint in the message body for verification.
 
-<h2><code>OpenPGP</code></h2>
+## OpenPGP
 
-<p><code>Fingerprint:</code></p>
+Fingerprint:
+```469111A22928C3E871B72B0A589A528BCEE0AD88```
 
-<pre><code>469111A22928C3E871B72B0A589A528BCEE0AD88</code></pre>
-
-<p><code>Public key:</code></p>
-
-<pre><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Public key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEaWhw7xYJKwYBBAHaRw8BAQdAZBdEn5/YnFjpN03e53FKdI/IZ6JMvxNIHkAY
 PxVezHa0GDEtdm9pZCA8cm9vdEAxLXZvaWQuY29tPoiTBBMWCgA7FiEERpERoiko
 w+hxtysKWJpSi87grYgFAmlocO8CGwMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcC
@@ -36,4 +31,5 @@ BBgWCgAgFiEERpERoikow+hxtysKWJpSi87grYgFAmlocO8CGwwACgkQWJpSi87g
 rYhswAD/Xl6EwMRxK2FHo6HutkOeC7IWvvmaGQp7AhABKMCk4+4BANspsdBX1GGJ
 LeQ3nZifSBsWxavCSeRt0j1fDupyNoYK
 =Xjc1
------END PGP PUBLIC KEY BLOCK-----</code></pre>
+-----END PGP PUBLIC KEY BLOCK-----
+```
